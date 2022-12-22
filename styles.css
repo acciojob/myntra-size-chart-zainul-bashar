@@ -1,2 +1,19 @@
-
+td,th{
+    border: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: brown;
+}
+.row2{
+    background-color: peachpuff;
+}
+.row3{
+    background-color: pink;
+}
+.row4{
+    background-color: skyblue;
+}
 /* Your CSS Code here. */
